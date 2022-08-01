@@ -4,11 +4,30 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(71,124,71,1) 0%, rgba
 
 }
 
-
+.body {
+    background-image: url(img/back3.png);
+    background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.h1 {
+    color:#73ea73;
+    text-align: center;
+    position: fixed;
+    margin-top: 0 auto;
+    
+}
 .card-title {
     text-align: center;
     background:#73ea73;
     border-radius: 15px;
+  
+
+    
 }
 
 .card-text {
