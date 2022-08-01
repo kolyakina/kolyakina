@@ -1,0 +1,35 @@
+.body {
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(71,124,71,1) 0%, rgba(0,212,255,1) 100%);
+
+}
+
+
+.card-title {
+    text-align: center;
+    background:#73ea73;
+    border-radius: 15px;
+}
+
+.card-text {
+    text-align: center;
+
+}
+
+.container {
+    text-align: center;
+    margin: 0 auto;
+  
+}
+
+.card-group {
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(115,234,115,1) 0%, rgba(0,212,255,1) 100%);
+    
+}
+
+.input {
+    border-radius: 15px 15px 15px 15px;
+    color:black;
+    margin-block: 0 auto;
+}
